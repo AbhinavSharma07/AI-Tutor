@@ -1,11 +1,11 @@
-# TutorHive: Customized AI Tutoring for Diverse Academic Courses
+# AI-Tutor: Customized AI Tutoring for Diverse Academic Courses
 
 <div align="center">
     <img src="sb_logo.png" alt="AI_Tutor" width="200"/>
 </div>
 
 ## Overview
-**TutorHive** is an educational web application that leverages the latest **OpenAI's Assistant API** and **Retrieval-Augmented Generation (RAG)** techniques to deliver customized tutoring across a wide range of academic subjects. It adapts dynamically to specific course content, providing a personalized and interactive learning experience.
+**AI-Tutor** is an educational web application that leverages the latest **OpenAI's Assistant API** and **Retrieval-Augmented Generation (RAG)** techniques to deliver customized tutoring across a wide range of academic subjects. It adapts dynamically to specific course content, providing a personalized and interactive learning experience.
 
 ## Core Features
 - **Adaptive Learning**: Upload course-specific materials to tailor AI responses to particular subjects or topics.
