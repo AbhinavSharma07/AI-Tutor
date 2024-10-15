@@ -46,11 +46,10 @@ AI-Tutor utilizes a combination of AI-driven technologies to deliver a robust ed
 </div>
 
 ## Getting Started
-1. **Launch the App**: Access [AI-Tutor on Streamlit](https://aitutor-gawywv3h6qfwzzvikfzkpl.streamlit.app/).
-2. **API Configuration**: Input your OpenAI API Key in the designated field.
-3. **Material Upload**: Upload relevant course documents to customize the tutoring experience.
-4. **Engage with the AI**: Start asking questions and receive personalized answers.
-5. **Transcript Download**: Save the Q&A session as an HTML file for future reference.
+1. **API Configuration**: Input your OpenAI API Key in the designated field.
+2. **Material Upload**: Upload relevant course documents to customize the tutoring experience.
+3. **Engage with the AI**: Start asking questions and receive personalized answers.
+4. **Transcript Download**: Save the Q&A session as an HTML file for future reference.
 
 ## Key Benefits
 - **Personalized Learning**: AI-Tutor's tailored responses make learning more effective and engaging.
@@ -72,4 +71,3 @@ AI-Tutor utilizes a combination of AI-driven technologies to deliver a robust ed
 
 ---
 
-Feel free to reach out with any feedback or feature suggestions for further enhancements.
